@@ -304,7 +304,7 @@ legend {
   background-color: #19191921;
 }
 .bg-calendar {
-  background-image: url(/static/img/calendar__image.png);
+  background-image: url(./static/img/calendar__image.png);
   width: 526px;
   height: 300px;
   color: white;
